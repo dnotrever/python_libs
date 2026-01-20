@@ -4,6 +4,12 @@
 pip install -e ~/workspace/personal/python_libs/helpers
 ```
 
+### Importing
+
+```
+from helpers import echo
+```
+
 #### echo
 
 ```
