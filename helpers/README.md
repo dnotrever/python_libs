@@ -1,7 +1,7 @@
 ### Install
 
 ```
-pip install -e ~/workspace/personal/python-libs/helpers
+pip install -e ~/workspace/personal/python_libs/helpers
 ```
 
 #### echo
